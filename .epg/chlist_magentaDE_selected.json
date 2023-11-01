@@ -10,11 +10,38 @@
             ]
         },
         {
+            "contentId": "148",
+            "name": "Cartoonito",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/cm1s/media/f609f4d13fd7e77d4c7b654a363ed5bc08e15c7a.png"
+                }
+            ]
+        },
+        {
             "contentId": "5577",
             "name": "Sky Showcase",
             "pictures": [
                 {
-                    "href": "http://ngiss.t-online.de/sweetprogrammanager/media/09629b5939190f0df366f958f199d6d499b2c4bd.png"
+                    "href": "http://ngiss.t-online.de/cm1s/media/09629b5939190f0df366f958f199d6d499b2c4bd.png"
+                }
+            ]
+        },
+        {
+            "contentId": "264",
+            "name": "Sky Atlantic",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/cm1s/media/e9fd1abc76e3b402cf5ae4f65bf6798741cd214e.png"
+                }
+            ]
+        },
+        {
+            "contentId": "3756",
+            "name": "Sky Replay",
+            "pictures": [
+                {
+                    "href": "http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png"
                 }
             ]
         }
