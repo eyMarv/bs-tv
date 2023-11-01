@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.xstream" name="xStream Scraper" provider-name="michaz1988" version="0.1.2.6">
+<addon id="script.module.xstream" name="xStream Scraper" provider-name="michaz1988" version="0.2">
 	<requires>
-		<import addon="script.module.vavoo"/>
+		<import addon="plugin.video.vavooto"/>
         <import addon="script.module.requests"/>
         <import addon="script.module.six"/>
         <import addon="script.module.resolveurl"/>
