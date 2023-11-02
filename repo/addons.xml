@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.vavooto" name="VAVOO.TO" version="6.0.2" provider-name="kasi,michaz">
+<addon id="plugin.video.vavooto" name="VAVOO.TO" version="6.0.2.1" provider-name="kasi,michaz">
 	<requires>
 		<import addon="script.module.vavoo"/>
 		<import addon="script.module.requests"/>
@@ -21,7 +21,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.xstream" name="xStream Scraper" provider-name="michaz1988" version="0.2">
+<addon id="script.module.xstream" name="xStream Scraper" provider-name="michaz1988" version="0.2.1">
 	<requires>
 		<import addon="plugin.video.vavooto"/>
         <import addon="script.module.requests"/>
