@@ -12,25 +12,19 @@ on:
 
 jobs:
 
-  get_epg:
+  cron:
+  
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Download new EPG
-        uses: actions/checkout@v3
+    
+      - uses: actions/checkout@v3
+      
+      - name: cron
+
         run: cd $HOME/work/michaz1988.github.io/michaz1988.github.io/.epg/ && python3 service.py
+        
       - uses: stefanzweifel/git-auto-commit-action@v4
+      
         with:
           commit_message: New EPG DATA
-
-  del_runs:
-    runs-on: ubuntu-latest
-    permissions:
-      actions: write
-    steps:
-      - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@v2
-        with:
-          token: ${{ github.token }}
-          repository: ${{ github.repository }}
-          retain_days: 2
-          keep_minimum_runs: 2
