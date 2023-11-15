@@ -14,7 +14,9 @@ jobs:
   cron:
     runs-on: ubuntu-latest
     permissions:
+      contents: read
       actions: write
+      pages: write
     
     steps:
       - uses: actions/checkout@v3
