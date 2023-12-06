@@ -48,7 +48,6 @@ def copy_guide_to_destination():
 		try:
 			tools.delete(guide_temp)
 			tools.delete(os.path.join(datapath, '__pycache__'))
-			tools.delete(os.path.join(datapath, 'log.txt'))
 			tools.delete(storage_path)
 			## Write new setting last_download
 			with open(grabber_cron, 'r', encoding='utf-8') as f:
@@ -96,6 +95,7 @@ def check_channel_dupes():
 			return True
 
 def run_grabber():
+	tools.delete(os.path.join(datapath, 'log.txt'))
 	if check_startup():
 		importlib.reload(xml_structure)
 		importlib.reload(magenta_DE)

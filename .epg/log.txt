@@ -1,2 +1,0 @@
-Takealug EPG Grabber : EPG Datei (guide.xml) Erstellt!
-[Takealug EPG Grabber 1.1.5+matrix] EPG Datei (guide.xml) Erstellt!
