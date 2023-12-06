@@ -14,7 +14,9 @@ def loc(id):
 			return file[number+2].split('"')[1]
 
 def notify(title, message, *arg):
-    print(title, message)
+	with open(os.path.join(datapath, 'log.txt'), 'a') as k:
+		k.write("%s : %s\n" % (title, message))
+	print(title, message)
 
 ## Make a debug logger
 def log(message):
