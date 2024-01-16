@@ -113,6 +113,8 @@ plugin://plugin.video.vavooto/?name=PRO+7+FUN
 plugin://plugin.video.joyn/?mode=play_video&video_id=prosiebenmaxx-at&stream_type=LIVE
 #EXTINF:-1 tvg-id="RBB" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png",RBB
 plugin://plugin.video.vavooto/?name=RBB
+#EXTINF:-1 tvg-id="RED BULL TV" group-title="TV" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png",RED BULL TV
+plugin://plugin.video.vavooto/?name=RED+BULL+TV
 #EXTINF:-1 tvg-id="RTL" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL
 plugin://plugin.video.tvnow.de?action=playVod&id=rrn:watch:videohub:station:1
 #EXTINF:-1 tvg-id="RTL II" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
