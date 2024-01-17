@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.vavooto" name="VAVOO.TO" version="6.0.2.9" provider-name="kasi,michaz">
+<addon id="plugin.video.vavooto" name="VAVOO.TO" version="6.0.2.9" provider-name="bsxcs,kasi,michaz">
 	<requires>
 		<import addon="script.module.vavoo" version="0.1.3.2" />
 		<import addon="script.module.requests"/>
@@ -22,7 +22,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.xstream" name="xStream Scraper" provider-name="michaz1988" version="0.2.1">
+<addon id="script.module.xstream" name="xStream Scraper" provider-name="bsxcs" version="0.2.1">
 	<requires>
 		<import addon="plugin.video.vavooto"/>
         <import addon="script.module.requests"/>
@@ -43,7 +43,7 @@
     </extension>
 </addon>
 
-<addon id="script.module.vavoo" name="Vavoosign" version="0.1.3.2" provider-name="michaz1988">
+<addon id="script.module.vavoo" name="Vavoosign" version="0.1.3.2" provider-name="bsxcs">
 	<requires>
 		<import addon="script.module.requests"/>
 	</requires>
@@ -55,12 +55,12 @@
 	</extension>
 </addon>
 
-<addon id="repository.michaz" name="Michaz Repository" provider-name="Michaz" version="4.3">
-	<extension point="xbmc.addon.repository" name="Michaz Repository">
+<addon id="repository.bstv" name="BS-TV Repository" provider-name="bsxcs" version="4.3">
+	<extension point="xbmc.addon.repository" name="BS-TV Repository">
 		<dir>
-			<info compressed="false">https://michaz1988.github.io/repo/addons.xml</info>
-			<checksum>https://michaz1988.github.io/repo/addons.xml.md5</checksum>
-			<datadir zip="true">https://michaz1988.github.io/repo/</datadir>
+			<info compressed="false">https://eyMarv.github.io/bs-tv/repo/addons.xml</info>
+			<checksum>https://eyMarv.github.io/bs-tv/repo/addons.xml.md5</checksum>
+			<datadir zip="true">https://eyMarv.github.io/bs-tv/repo/</datadir>
 		</dir>
 		<dir minversion="17.9.910" maxversion="18.9.700">
 			<info compressed="false">https://raw.githubusercontent.com/streamxstream/xStreamRepo/master/leia/addons.xml</info>
@@ -146,8 +146,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<description lang="en">Addons by Michaz</description>
-		<website>https://michaz1988.github.io</website>
+		<description lang="en">Addons by bsxcs</description>
+		<website>https://eyMarv.github.io/bs-tv</website>
 		<assets>
 			<icon>icon.png</icon>
 		</assets>
@@ -219,7 +219,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.tools" name="Tools" version="8.0.7" provider-name="Michaz">
+<addon id="plugin.video.tools" name="Tools" version="8.0.7" provider-name="bsxcs">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="script.module.routing"/>
@@ -313,7 +313,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.xtream-codes" name="Xtream-Codes IPTV" version="3.4" provider-name="michaz">
+<addon id="plugin.video.xtream-codes" name="Xtream-Codes IPTV" version="3.4" provider-name="bsxcs">
   <requires>
     <import addon="script.module.six" />
 	<import addon="inputstream.ffmpegdirect" version="1.21.8" optional="true" />
@@ -374,7 +374,7 @@ Xship 2021.07.01
     </extension>
 </addon>
 
-<addon id="plugin.video.waipu.tv" name="Waipu.tv / O2 TV" version="3.10.4" provider-name="flubshi, MiRo, michaz">
+<addon id="plugin.video.waipu.tv" name="Waipu.tv / O2 TV" version="3.10.4" provider-name="bsxcs, flubshi, MiRo, michaz">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" version="2.12.4"/>
@@ -421,7 +421,7 @@ Xship 2021.07.01
 </extension>
 </addon>
 
-<addon id="plugin.video.stalker" name="IPTV Stalker" version="2.2.0" provider-name="michaz">
+<addon id="plugin.video.stalker" name="IPTV Stalker" version="2.2.0" provider-name="bsxcs">
 	<requires>
 		<import addon="script.module.six"/>
 		<import addon="script.module.simplejson"/>
@@ -441,7 +441,7 @@ Xship 2021.07.01
 	</extension>
 </addon>
 
-<addon id="skin.mimic.lr" name="Mimic-LR" version="999.2" provider-name="Randall,michaz">
+<addon id="skin.mimic.lr" name="Mimic-LR" version="999.2" provider-name="Randall,bsxcs">
 	<requires>
 		<import addon="xbmc.gui" version="5.15.0" />
 		<import addon="resource.images.studios.white" version="0.0.25" />

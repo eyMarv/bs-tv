@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.michaz" name="Michaz Repository" provider-name="Michaz" version="4.3">
-	<extension point="xbmc.addon.repository" name="Michaz Repository">
+<addon id="repository.bstv" name="BS-TV Repository" provider-name="bsxcs" version="4.3">
+	<extension point="xbmc.addon.repository" name="BS-TV Repository">
 		<dir>
-			<info compressed="false">https://michaz1988.github.io/repo/addons.xml</info>
-			<checksum>https://michaz1988.github.io/repo/addons.xml.md5</checksum>
-			<datadir zip="true">https://michaz1988.github.io/repo/</datadir>
+			<info compressed="false">https://eyMarv.github.io/bs-tv/repo/addons.xml</info>
+			<checksum>https://eyMarv.github.io/bs-tv/repo/addons.xml.md5</checksum>
+			<datadir zip="true">https://eyMarv.github.io/bs-tv/repo/</datadir>
 		</dir>
 		<dir minversion="17.9.910" maxversion="18.9.700">
 			<info compressed="false">https://raw.githubusercontent.com/streamxstream/xStreamRepo/master/leia/addons.xml</info>
@@ -90,8 +90,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<description lang="en">Addons by Michaz</description>
-		<website>https://michaz1988.github.io</website>
+		<description lang="en">Addons by BS-TV</description>
+		<website>https://eyMarv.github.io/bs-tv</website>
 		<assets>
 			<icon>icon.png</icon>
 		</assets> 
