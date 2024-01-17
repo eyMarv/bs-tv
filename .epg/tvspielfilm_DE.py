@@ -277,7 +277,10 @@ def download_thread(tvsDE_chlist_selected, multi, list):
                 day_to_start += timedelta(days=1)
                 tvs_data_url = 'https://live.tvspielfilm.de/static/broadcast/list/{}/{}'.format(contentID, day_to_grab)
                 response = requests.get(tvs_data_url, headers=tvsDE_header)
-                response.raise_for_status()
+                try:
+                    response.raise_for_status()
+                except Exception:
+                    continue
                 tvs_data = response.json()
                 temp.append(tvs_data)
 
