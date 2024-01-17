@@ -140,7 +140,7 @@ plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
 #EXTINF:-1 tvg-id="SAT.1 Gold" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png",Sat 1 Gold
 plugin://plugin.video.joyn/?mode=play_video&video_id=sat1gold-at&stream_type=LIVE
 #EXTINF:-1 tvg-id="ServusTV" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png",Servus TV
-plugin://plugin.video.joyn/?mode=play_video&video_id=servustv-at&stream_type=LIVE
+plugin://plugin.video.vavooto/?name=SERVUS+TV
 #EXTINF:-1 tvg-id="Silverline" group-title="TV" tvg-logo="https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
 #EXTINF:-1 tvg-id="sixx" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png",Sixx
