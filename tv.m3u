@@ -80,7 +80,7 @@ plugin://plugin.video.vavooto/?name=MOTORVISION
 #EXTINF:-1 tvg-id="n-tv" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png",N-TV
 plugin://plugin.video.vavooto/?name=N-TV
 #EXTINF:-1 tvg-id="N24 Doku" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png",N24 Doku
-plugin://plugin.video.vavooto/?name=N24-DOCU
+plugin://plugin.video.vavooto/?name=N24+DOCU
 #EXTINF:-1 tvg-id="NDR Fernsehen" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png",NDR
 plugin://plugin.video.vavooto/?name=NDR
 #EXTINF:-1 tvg-id="NAT GEO WILD" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1170.png",Nat Geo Wild
