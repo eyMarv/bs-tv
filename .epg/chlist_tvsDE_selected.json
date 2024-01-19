@@ -1090,15 +1090,6 @@
             ]
         },
         {
-            "contentId": "BILD",
-            "name": "BILD TV",
-            "pictures": [
-                {
-                    "href": "http://live.tvspielfilm.de/static/images/channels/large/BILD.png"
-                }
-            ]
-        },
-        {
             "contentId": "SKY-D",
             "name": "Sky Documentaries",
             "pictures": [
