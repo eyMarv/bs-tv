@@ -91,15 +91,6 @@
             ]
         },
         {
-            "contentId": "SERVUSA",
-            "name": "ServusTV",
-            "pictures": [
-                {
-                    "href": "http://live.tvspielfilm.de/static/images/channels/large/SERVU.png"
-                }
-            ]
-        },
-        {
             "contentId": "TELE5",
             "name": "Tele 5",
             "pictures": [
