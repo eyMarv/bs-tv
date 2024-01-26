@@ -103,6 +103,7 @@ def run_grabber():
 		xml_structure.xml_start()
 		xml_structure.xml_channels_start('ZAPPN')
 		xml_structure.xml_channels('PULS24', 'PULS24', 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PULS24logo.png/640px-PULS24logo.png', 'de')
+		xml_structure.xml_channels('ServusTV', 'SERVU', 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/ServusTV_Logo.png/640px-ServusTV_Logo.png', 'de')
 		if enable_grabber_magentaDE:
 			if magenta_DE.startup():
 				magenta_DE.create_xml_channels()
@@ -146,6 +147,31 @@ def run_grabber():
 					items_actor = '; '.join([i+': '+', '.join([a for a in c[i]]) for i in c.keys()])
 				else: items_actor = ""
 				xml_structure.xml_broadcast('onscreen', "PULS24", item_title, item_starttime, item_endtime, item_description, item_country, item_picture, item_subtitle, items_genre, item_date, item_season, item_episode, item_agerating, item_starrating, items_director, items_producer, items_actor, False, "de")
+			
+			prg_post = json.dumps({"platformCodename": "www", "requestedTiles": [{"id": a["id"]} for i in epg_resp.keys() for a in epg_resp[i] if i == "servustv-austria"]})
+			epg_data = requests.post(prg_url, timeout=5, headers=api_headers, data=prg_post, allow_redirects=False).json()["tiles"]
+			for program in epg_data:
+				item_starttime = datetime.strptime(program["start"].split('+')[0], '%Y-%m-%dT%H:%M:%S').strftime('%Y%m%d%H%M%S')
+				item_endtime = datetime.strptime(program["stop"].split('+')[0], '%Y-%m-%dT%H:%M:%S').strftime('%Y%m%d%H%M%S')
+				items_genre = program['categories'][-1]['name'] if len(program.get("categories", [])) > 0 else ""
+				item_country = ', '.join([i['name'] for i in program['countries']]) if len(program.get("countries", [])) > 0 else ""
+				item_description = program.get("description", "").replace("\n\n", "")
+				item_title = program.get("title", "")
+				item_picture = program["images"][0]["url"]
+				item_season = program.get('seasonNumber', "")
+				item_episode = program.get("episodeNumber", "")
+				item_subtitle = program.get("subTitle", "")
+				item_date = program["date"] if program.get("date", 0) != 0 else ""
+				item_agerating, item_starrating, items_director, items_producer = "", "", "", ""
+				if len(program.get("people", [])) > 0:
+					c = {}
+					for i in program["people"]:
+						if not c.get('[B]'+i["roleName"]+'[/B]', False):
+							c['[B]'+i["roleName"]+'[/B]'] = []
+						c['[B]'+i["roleName"]+'[/B]'].append(i["fullName"])
+					items_actor = '; '.join([i+': '+', '.join([a for a in c[i]]) for i in c.keys()])
+				else: items_actor = ""
+				xml_structure.xml_broadcast('onscreen', "ServusTV", item_title, item_starttime, item_endtime, item_description, item_country, item_picture, item_subtitle, items_genre, item_date, item_season, item_episode, item_agerating, item_starrating, items_director, items_producer, items_actor, False, "de")
 			if enable_grabber_magentaDE:
 				if magenta_DE.startup():
 					magenta_DE.create_xml_broadcast(enable_rating_mapper, thread_temppath, download_threads)
