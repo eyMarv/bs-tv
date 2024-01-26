@@ -103,7 +103,7 @@ def run_grabber():
 		xml_structure.xml_start()
 		xml_structure.xml_channels_start('ZAPPN')
 		xml_structure.xml_channels('PULS24', 'PULS24', 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PULS24logo.png/640px-PULS24logo.png', 'de')
-		xml_structure.xml_channels('ServusTV', 'SERVU', 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/ServusTV_Logo.png/640px-ServusTV_Logo.png', 'de')
+		xml_structure.xml_channels('ServusTV', 'ServusTV', 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/ServusTV_Logo.png/640px-ServusTV_Logo.png', 'de')
 		if enable_grabber_magentaDE:
 			if magenta_DE.startup():
 				magenta_DE.create_xml_channels()
