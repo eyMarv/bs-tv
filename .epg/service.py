@@ -209,7 +209,10 @@ def run_grabber():
                 )
                 item_description = program.get("description", "").replace("\n\n", "")
                 item_title = program.get("title", "")
-                item_picture = program["images"][0]["url"]
+                try:
+                    item_picture = program["images"][0]["url"]
+                except:
+                    item_picture = ""
                 item_season = program.get("seasonNumber", "")
                 item_episode = program.get("episodeNumber", "")
                 item_subtitle = program.get("subTitle", "")
@@ -291,7 +294,10 @@ def run_grabber():
                 )
                 item_description = program.get("description", "").replace("\n\n", "")
                 item_title = program.get("title", "")
-                item_picture = program["images"][0]["url"]
+                try:
+                    item_picture = program["images"][0]["url"]
+                except:
+                    item_picture = ""
                 item_season = program.get("seasonNumber", "")
                 item_episode = program.get("episodeNumber", "")
                 item_subtitle = program.get("subTitle", "")
