@@ -29,8 +29,10 @@ plugin://plugin.video.vavooto/?name=CARTOONITO
 plugin://plugin.video.vavooto/?name=VIVA
 #EXTINF:-1 tvg-id="CRIME + INVESTIGATION" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png",CRIME + INVESTIGATION
 plugin://plugin.video.vavooto/?name=A%26E
-#EXTINF:-1 tvg-id="Das Erste" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1016.png",Das Erste
-plugin://plugin.video.vavooto/?name=DAS+ERSTE
+#EXTINF:-1 tvg-id="Das Erste" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1016.png",Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" group-title="TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="DELUXE MUSIC" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
 plugin://plugin.video.vavooto/?name=DELUXE MUSIC
 #EXTINF:-1 tvg-id="DMAX" group-title="TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png",DMAX
