@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-13 00:50:38.500732 -->
+<!-- created on 2025-04-13 01:45:57.445850 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -526,15 +526,6 @@
         <icon src="http://live.tvspielfilm.de/static/images/channels/large/SKY-NA.png" />
     </channel>
 
-    <programme start="20250413004500 +0000" stop="20250413014000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
     <programme start="20250413014000 +0000" stop="20250413023000 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
@@ -1049,14 +1040,13 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250413004500 +0000" stop="20250413014500 +0000" channel="ServusTV">
-        <title lang="de">Formel 2</title>
-        <sub-title lang="de">Sakhir, Bahrain - Sprint Rennen</sub-title>
-        <desc lang="de">Die Formel 2 bei ServusTV und ServusTV On: Alle Rennen, alle Highlights mit den Formel-1-Stars von morgen - kommentiert von Bernd Kainz.&lt;br /&gt;&lt;br /&gt;Machen Sie sich bereit und bereiten Sie sich auf Formel-2-Rennen vor.</desc>
-        <date>2025</date>
-        <category lang="de">Motorsport</category>
-        <icon src="https://images.mdn.ors.at/8314655553036145541"/>
-        <country>Bahrain</country>
+    <programme start="20250415013000 +0000" stop="20250415022000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250413014500 +0000" stop="20250413024000 +0000" channel="ServusTV">
@@ -1908,6 +1898,58 @@
         <category lang="de">Wissensmagazin</category>
         <icon src="https://images.mdn.ors.at/17031296692642120691"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250415010000 +0000" stop="20250415014000 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Lichtjahre entfernt</sub-title>
+        <desc lang="de">In vielen Kulturen weltweit gibt es Erzählungen über Urahnen, die von den Plejaden auf die Erde kamen. Wie geht die Wissenschaft mit diesen mystischen Legenden um?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress</actor>
+            <actor> William Henry</actor>
+            <actor> Jonathan Young</actor>
+            <actor> Erich von Däniken</actor>
+            <actor> Jason Martell</actor>
+            <actor> Andrew Collins</actor>
+            <actor> Nick Pope</actor>
+            <actor> Colgate Salsbury</actor>
+            <actor> Giorgio Tsoukalos</actor>
+            <actor> Linda Moulton Howe</actor>
+            <actor> David Wilcock</actor>
+            <actor> George Noory</actor>
+            <actor> Michio Kaku; [B]ErzählerIn[/B]:  Simon Allix</actor>
+            <actor> Robert Clotworthy; [B]Produzent[/B]: Mary Ellen Iwata</actor>
+            <actor> Andy DeJohn; [B]Regie[/B]: Jon A. Levy</actor>
+            <actor> Keith Guinto</actor>
+            <actor> Robin Feinberg</actor>
+            <actor> Mitch Marcus</actor>
+            <actor> William Martens</actor>
+            <actor> Jonathan Haug</actor>
+            <actor> Phil Grabsky</actor>
+            <actor> Kevin Burns</actor>
+            <actor> Susan E. Leventhal; [B]Drehbuch[/B]: Erik Pinkston</actor>
+            <actor> Evan Goldstein</actor>
+            <actor>  Kristina Djokic</actor>
+            <actor>  Max Thompson; [B]Editor[/B]: Andrew Wardlaw</actor>
+            <actor> Nena Olwage</actor>
+            <actor> Marcos Morro</actor>
+            <actor> John Parsons</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/12179640673147178950"/>
+        <country>Vereinigte Staaten</country>
+        <episode-num system="onscreen">S12 E29</episode-num>
+    </programme>
+
+    <programme start="20250415014000 +0000" stop="20250415023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
