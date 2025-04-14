@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-14 00:52:06.226089 -->
+<!-- created on 2025-04-14 01:27:44.521097 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -1012,6 +1012,15 @@
         <country>Österreich</country>
     </programme>
 
+    <programme start="20250416011500 +0000" stop="20250416020500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
+    </programme>
+
     <programme start="20250414004500 +0000" stop="20250414014500 +0000" channel="ServusTV">
         <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
         <sub-title lang="de">14.04.2025 02:45.</sub-title>
@@ -1998,6 +2007,49 @@
         <icon src="https://images.mdn.ors.at/7248204328812284824"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E173</episode-num>
+    </programme>
+
+    <programme start="20250416010000 +0000" stop="20250416015000 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">UFO-Guide</sub-title>
+        <desc lang="de">Bereits bei den alten Ägyptern gab es Symbole, die auf UFOs verweisen. In der Schweiz fand man Illustrationen von Flugobjekten aus dem 16. Jahrhundert. Zudem gibt es allerhand Videoaufnahmen von unbekannten Flugobjekten, die vom US-Militär aufgezeichnet wurden. Gibt es somit überzeugende Beweise, dass es UFOs und außerirdische Fahrzeuge gibt? Könnten sich diese Flugobjekte bereits seit Tausenden von Jahren auf der Erde befinden? Augenzeugen berichten von fliegenden Untertassen, die unglaubliche Manöver absolvieren, Tarnkappenfliegern, die plötzlich auftauchen und wieder verschwinden können und Flugobjekten, die riesige Raumschiffe zu sein scheinen. Könnten wir schon bald dank neuer Technologien aufdecken, dass es weit mehr unbekannte Flugobjekte gibt, als bisher angenommen wurde?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress</actor>
+            <actor> William Henry</actor>
+            <actor> Jonathan Young</actor>
+            <actor> Erich von Däniken</actor>
+            <actor> Jason Martell</actor>
+            <actor> Andrew Collins</actor>
+            <actor> Nick Pope</actor>
+            <actor> Colgate Salsbury</actor>
+            <actor> Linda Moulton Howe</actor>
+            <actor> David Wilcock</actor>
+            <actor> George Noory</actor>
+            <actor> Michio Kaku</actor>
+            <actor> Giorgio Tsoukalos; [B]ErzählerIn[/B]:  Simon Allix</actor>
+            <actor> Robert Clotworthy; [B]Produzent[/B]: Mary Ellen Iwata; [B]Regie[/B]: Jon A. Levy</actor>
+            <actor> Keith Guinto</actor>
+            <actor> Robin Feinberg</actor>
+            <actor> Mitch Marcus</actor>
+            <actor> William Martens</actor>
+            <actor> Jonathan Haug</actor>
+            <actor> Phil Grabsky</actor>
+            <actor> Kevin Burns</actor>
+            <actor> Susan E. Leventhal; [B]Drehbuch[/B]: Erik Pinkston</actor>
+            <actor> Evan Goldstein</actor>
+            <actor> Kevin Tavolaro</actor>
+            <actor> Gabriel Rotello</actor>
+            <actor>  Max Thompson; [B]Editor[/B]: Marcos Morro</actor>
+            <actor> Adrian Herrera</actor>
+            <actor> Ken Abraham</actor>
+            <actor> Kevin Browne</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/3767427349267789659"/>
+        <country>Vereinigte Staaten</country>
+        <episode-num system="onscreen">S12 E30</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
