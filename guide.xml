@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-16 00:50:15.354649 -->
+<!-- created on 2025-04-16 01:25:04.714173 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -1057,17 +1057,6 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250416001500 +0000" stop="20250416010000 +0000" channel="ServusTV">
-        <title lang="de">P.M. Wissen</title>
-        <sub-title lang="de">Elektronik aus Pilzen? - Wie biologisch abbaubare Technik entsteht</sub-title>
-        <desc lang="de">Diesmal bei P.M. Wissen: Wie macht ein Pilz Elektronik kompostierbar? // Was sind Erdställe und wohin führen sie? // Wie schützen wir uns vor Cyberangriffen? // Was bedeuten unsere Nachnamen? // Wie können Züge schneller werden? // Wieviele Kalorien brauchen wir? // Wie leben Eichhörnchen in der Stadt? // Haben Krebse einen Immobilienmarkt? //&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
-        <date>2023</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E173</episode-num>
-    </programme>
-
     <programme start="20250416010000 +0000" stop="20250416014000 +0000" channel="ServusTV">
         <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
         <sub-title lang="de">UFO-Guide</sub-title>
@@ -1928,6 +1917,16 @@
         <date>2025</date>
         <category lang="de">Talk-Show</category>
         <icon src="https://images.mdn.ors.at/10092140308075608800"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250418010000 +0000" stop="20250418014500 +0000" channel="ServusTV">
+        <title lang="de">Terra Mater Wissen</title>
+        <sub-title lang="de">Geheimnisse der Burg und autonome Fahrräder</sub-title>
+        <desc lang="de">Themen: Hat die Hohensalzburg noch Geheimnsisse? // Wie funktioniert das umweltfreundlichste Auto der Welt? // Wie sinnvoll sind autonome Fahrräder? // Was kann ein Turbo-Rollator? //Was macht Wien zur Hamsterhochburg? // Warum hat eine Zwergaffenart so große Augen? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
+        <date>2024</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/1425650226641266971"/>
         <country>Österreich</country>
     </programme>
 
