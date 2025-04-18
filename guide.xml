@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-18 00:48:54.185816 -->
+<!-- created on 2025-04-18 01:22:59.831291 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -1065,20 +1065,6 @@
         <date>2024</date>
         <category lang="de">Reality-TV</category>
         <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250417235500 +0000" stop="20250418011500 +0000" channel="ServusTV">
-        <title lang="de">Talk im Hangar-7</title>
-        <sub-title lang="de">Wien-Wahl25: Runde der Spitzenkandidaten</sub-title>
-        <desc lang="de">Die Gäste bei Michael Fleischhacker: Michael Ludwig (SPÖ), Karl Mahrer (ÖVP), Dominik Nepp (FPÖ), Selma Arapović (NEOS) und Judith Pühringer (GRÜNE).&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
-            <actor> Michael Fleischhacker</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
         <country>Österreich</country>
     </programme>
 
