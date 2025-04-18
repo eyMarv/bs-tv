@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-18 00:24:59.113272 -->
+<!-- created on 2025-04-18 00:48:54.185816 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -525,20 +525,6 @@
         <display-name lang="de">Sky Nature</display-name>
         <icon src="http://live.tvspielfilm.de/static/images/channels/large/SKY-NA.png" />
     </channel>
-
-    <programme start="20250417235500 +0000" stop="20250418004000 +0000" channel="PULS24">
-        <title lang="de">Homicide Hunter - Dem Mörder auf der Spur</title>
-        <sub-title lang="de">Tod im Nirgendwo</sub-title>
-        <desc lang="de">In der Einsamkeit der Berge hoch über Colorado Springs liegt die gefrorene Leiche einer Frau. Die Ermittler müssen zunächst klären, wie und warum die Frau in diese Einöde gelangte.&lt;br /&gt;&lt;br /&gt;Begleiten Sie Lieutenant Joe Kenda und sein Team zur Verbrechensbekämpfung in Colorado Springs, während er uns mithilfe dramatischer Nachstellungen durch einige der verstörendsten und schwierigsten Mordfälle führt, an denen sie je gearbeitet haben.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Josh Casaubon; [B]GastgeberIn[/B]: Joe Kenda</actor>
-        </credits>
-        <date>2019</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/3582009986331666020"/>
-        <country>Vereinigte Staaten, Spanien</country>
-        <episode-num system="onscreen">S8 E14</episode-num>
-    </programme>
 
     <programme start="20250418004000 +0000" stop="20250418013000 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -1071,6 +1057,15 @@
         <icon src="https://images.mdn.ors.at/3582009986331666020"/>
         <country>Vereinigte Staaten, Spanien</country>
         <episode-num system="onscreen">S8 E13</episode-num>
+    </programme>
+
+    <programme start="20250420004000 +0000" stop="20250420013000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250417235500 +0000" stop="20250418011500 +0000" channel="ServusTV">
