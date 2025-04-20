@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-20 00:53:04.728563 -->
+<!-- created on 2025-04-20 01:29:37.272140 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -1068,6 +1068,15 @@
         <episode-num system="onscreen">S9 E16</episode-num>
     </programme>
 
+    <programme start="20250422010000 +0000" stop="20250422015000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
+    </programme>
+
     <programme start="20250420002500 +0000" stop="20250420014500 +0000" channel="ServusTV">
         <title lang="de">Das Leben des Brian</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;Drei Könige aus dem Morgenland landen in Bethlehem nicht im Stall von Jesus, sondern nebenan in dem eines gewissen Brian, der als Kind römischer Besatzer geboren wurde. Rund 33 Jahre später schließt sich Brian der Volksfront von Judäa an, einer desolaten Bande von Möchtegern-Terroristen, die gegen die römischen Besatzer aufbegehren. Durch eine skurrile Nacht-und-Nebel-Aktion wird Brian wider Willen zu einer Art Volksheld...</desc>
@@ -1782,6 +1791,19 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/11401491809437512419"/>
         <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20250422012000 +0000" stop="20250422015500 +0000" channel="ServusTV">
+        <title lang="de">Expedition am Limit mit Steve Backshall</title>
+        <sub-title lang="de">Insel der Haie</sub-title>
+        <desc lang="de">Steve und der Hai-Experte Mauricio Hoyos reisen diesmal auf eine entlegene Insel im Ostpazifik, um die Brutpflege der Haie zu studieren - denn unzählige Walhaie, Hammerhaie und Mantarochen tummeln sich dort in den unberührten Gewässern.&lt;br /&gt;&lt;br /&gt;Steve Backshall ist ein Abenteurer, wie er im Buche steht. Der Brite erkundet mit der Kamera die entlegensten Winkel der Erde. Am Polarkreis zeigt der Wildlife-Experte die Folgen des Klimawandels auf. Dort ist der BAFTA-Gewinner im Kajak unterwegs. Die Route führt durch tückisches Treibeis. In Mexiko wagt sich Steve Backshall in das längste Unterwasserhöhlensystem der Welt vor.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Steve Backshall</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Reisen</category>
+        <icon src="https://images.mdn.ors.at/2958712700544970136"/>
+        <country>Vereinigtes Königreich, Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
