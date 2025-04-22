@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-22 00:49:48.256870 -->
+<!-- created on 2025-04-22 01:24:22.574492 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -525,20 +525,6 @@
         <display-name lang="de">Sky Nature</display-name>
         <icon src="http://live.tvspielfilm.de/static/images/channels/large/SKY-NA.png" />
     </channel>
-
-    <programme start="20250422001000 +0000" stop="20250422010000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der Bombenleger von Austin</sub-title>
-        <desc lang="de">Im Jahr 2018 wird Anthony House durch eine Explosion getötet, gefolgt von Draylen Mason durch eine weitere Bombe. Es wird klar, dass Austin, Texas, von einem Serienbomber angegriffen wird, und die Polizei nutzt CCTV zur Fahndung.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/14145036290365143084"/>
-        <country>Kanada, Vereinigtes Königreich</country>
-        <episode-num system="onscreen">S9 E16</episode-num>
-    </programme>
 
     <programme start="20250422010000 +0000" stop="20250422015000 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -1089,22 +1075,6 @@
         <category lang="de">Reality-TV</category>
         <icon src="https://images.mdn.ors.at/1847406969315015532"/>
         <country>Österreich</country>
-    </programme>
-
-    <programme start="20250421234000 +0000" stop="20250422012000 +0000" channel="ServusTV">
-        <title lang="de">Fall</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Becky und Hunter sind Kletterfreaks. Ihr nächstes Ziel: der B67 Tower in der amerikanischen Wüste. Ein Turm, der einer Nadel im Nichts gleicht.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Grace Caroline Currey</actor>
-            <actor> Virginia Gardner</actor>
-            <actor> Mason Gooding</actor>
-            <actor> Jeffrey Dean Morgan</actor>
-            <actor> Jasper Cole; [B]Regie[/B]: Scott Mann; [B]Drehbuch[/B]:  Jonathan Frank</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/11401491809437512419"/>
-        <country>Vereinigte Staaten, Vereinigtes Königreich</country>
     </programme>
 
     <programme start="20250422012000 +0000" stop="20250422015500 +0000" channel="ServusTV">
