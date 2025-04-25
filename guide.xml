@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-25 00:25:48.807465 -->
+<!-- created on 2025-04-25 00:50:06.661961 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -526,20 +526,6 @@
         <icon src="http://live.tvspielfilm.de/static/images/channels/large/SKY-NA.png" />
     </channel>
 
-    <programme start="20250425000000 +0000" stop="20250425004500 +0000" channel="PULS24">
-        <title lang="de">Homicide Hunter - Dem Mörder auf der Spur</title>
-        <sub-title lang="de">Blinde Wut</sub-title>
-        <desc lang="de">Wanderer entdecken in den Bergen die Leiche eines Mannes - nackt, gefesselt, geschlagen. Ermittler Joe Kenda ist verblüfft über die wilde Vergangenheit des Mannes und nimmt sich eine Liste Verdächtiger vor.&lt;br /&gt;&lt;br /&gt;Begleiten Sie Lieutenant Joe Kenda und sein Team zur Verbrechensbekämpfung in Colorado Springs, während er uns mithilfe dramatischer Nachstellungen durch einige der verstörendsten und schwierigsten Mordfälle führt, an denen sie je gearbeitet haben.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Josh Casaubon; [B]GastgeberIn[/B]: Joe Kenda</actor>
-        </credits>
-        <date>2019</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/11298095941583231472"/>
-        <country>Vereinigte Staaten, Spanien</country>
-        <episode-num system="onscreen">S8 E16</episode-num>
-    </programme>
-
     <programme start="20250425004500 +0000" stop="20250425013500 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
@@ -1062,21 +1048,13 @@
         <episode-num system="onscreen">S8 E15</episode-num>
     </programme>
 
-    <programme start="20250424234500 +0000" stop="20250425003000 +0000" channel="ServusTV">
-        <title lang="de">Watzmann ermittelt</title>
-        <sub-title lang="de">Viva la Musica</sub-title>
-        <desc lang="de">Der Tod der Scheidungsanwältin Doris Renz ruft Jerry und Beissl auf den Plan. Das Opfer war zudem Solistin eines Laien-Chors, bei deren Mitgliedern Renz sehr unbeliebt war. Grund genug für einen Mord?&lt;br /&gt;&lt;br /&gt;Hauptkommissar Benedikt Beissl sorgt in dieser ARD-Serie schon seit Jahrzehnten in Berchtesgaden für Recht und Ordnung Er ist wie der Watzmann - das Wahrzeichen von Berchtesgaden. Groß, mächtig und unverrückbar. Doch dann kommt ein neuer Kollege: Jerry Paulsen. Der ist nicht nur all das, was Beissl nicht ist, nämlich charmant, redselig und offenherzig.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Andreas Giebel</actor>
-            <actor> Ines Arabella Lutz</actor>
-            <actor> Kathrin von Steinburg</actor>
-            <actor> Barbara Weinzierl</actor>
-            <actor> Leonie Charlotte Brill; [B]Regie[/B]: Heidi Kranz</actor>
-        </credits>
-        <date>2019</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/7796194248587926256"/>
-        <country>Deutschland</country>
+    <programme start="20250427004000 +0000" stop="20250427013500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250425003000 +0000" stop="20250425014000 +0000" channel="ServusTV">
@@ -1999,6 +1977,44 @@
         <category lang="de">Umwelt</category>
         <icon src="https://images.mdn.ors.at/9461398258581345675"/>
         <country>Frankreich</country>
+    </programme>
+
+    <programme start="20250427005000 +0000" stop="20250427013000 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Unglaubliche Artefakte</sub-title>
+        <desc lang="de">Unsere Vorfahren erschufen atemberaubende Artefakte, für die selbst Wissenschaftler der heutigen Zeit keine Erklärung finden. Diese antiken Gegenstände wurden von fortschrittlichen Kulturen kreiert, die über ein enormes Wissen verfügten. Brachten Außerirdische dieses Wissen auf die Erde?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress</actor>
+            <actor> William Henry</actor>
+            <actor> Jonathan Young</actor>
+            <actor> Erich von Däniken</actor>
+            <actor> Jason Martell</actor>
+            <actor> Andrew Collins</actor>
+            <actor> Nick Pope</actor>
+            <actor> Colgate Salsbury</actor>
+            <actor> Giorgio Tsoukalos</actor>
+            <actor> Linda Moulton Howe</actor>
+            <actor> David Wilcock</actor>
+            <actor> George Noory</actor>
+            <actor> Michio Kaku; [B]ErzählerIn[/B]:  Simon Allix</actor>
+            <actor> Robert Clotworthy; [B]Produzent[/B]: Mary Ellen Iwata</actor>
+            <actor> Andy DeJohn</actor>
+            <actor> Erik Pinkston; [B]Regie[/B]: Jon A. Levy</actor>
+            <actor> Keith Guinto</actor>
+            <actor> Robin Feinberg</actor>
+            <actor> Mitch Marcus</actor>
+            <actor> William Martens</actor>
+            <actor> Jonathan Haug</actor>
+            <actor> Phil Grabsky</actor>
+            <actor> Kevin Burns; [B]Drehbuch[/B]:  Max Thompson</actor>
+            <actor> Gabriel Rotello; [B]Editor[/B]: Andrew Wardlaw</actor>
+            <actor> Paul Marengo</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/2576679500371032743"/>
+        <country>Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
