@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-26 00:48:30.768919 -->
+<!-- created on 2025-04-26 01:22:22.635669 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -1084,20 +1084,6 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250425234500 +0000" stop="20250426011500 +0000" channel="ServusTV">
-        <title lang="de">Kabarett am Freitag</title>
-        <sub-title lang="de">Gerhard Polt: Mia und Napoli - Ein italienischer Abend mit Gerhard Polt und Freunden</sub-title>
-        <desc lang="de">Seit rund 80 Jahren erweckt Gerhard Polt mit feiner Beobachtungsgabe, scharfem Witz und unverwechselbarer Stimme seine Figuren zum Leben – mal staunend, mal bissig, aber immer treffend.&lt;br /&gt;&lt;br /&gt;Die Veranstaltungsreihe "Kabarett.Freitag" der Wachau Bühne geht in die vierte Runde!</desc>
-        <credits>
-            <actor>[B]Regie[/B]: Alexander Guntersdorfer; [B]Editor[/B]: Florian Hagenauer</actor>
-            <actor> Julia Dungl; [B]Kamera[/B]: Ivan Filipovic</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Unterhaltung</category>
-        <icon src="https://images.mdn.ors.at/11046327385647687420"/>
-        <country>Österreich, Deutschland</country>
-    </programme>
-
     <programme start="20250426011500 +0000" stop="20250426022000 +0000" channel="ServusTV">
         <title lang="de">BilderWelten</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
@@ -2001,6 +1987,21 @@
         <category lang="de">Antiquitäten</category>
         <icon src="https://images.mdn.ors.at/10156158151431626300"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250428011000 +0000" stop="20250428021000 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">28.04.2025 03:10.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/13728755379161328160"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
