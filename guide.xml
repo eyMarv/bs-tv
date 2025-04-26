@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-26 00:24:38.256813 -->
+<!-- created on 2025-04-26 00:48:30.768919 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -525,20 +525,6 @@
         <display-name lang="de">Sky Nature</display-name>
         <icon src="http://live.tvspielfilm.de/static/images/channels/large/SKY-NA.png" />
     </channel>
-
-    <programme start="20250425235500 +0000" stop="20250426004000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mord ohne Motiv</sub-title>
-        <desc lang="de">Am 19. Oktober 2018 wird die Leiche von Laura Pietscher neben einem Müllcontainer in Tampa, Florida, gefunden. Die 28 Jahre alte Frau wohnte im zwei Stunden entfernten Sebring. Warum ist sie nach Tampa gefahren? Und wo ist ihr silberner Pick-up? Die Polizei steht vor einem Rätsel ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/15904806166777690563"/>
-        <country>Kanada, Vereinigtes Königreich</country>
-        <episode-num system="onscreen">S13 E4</episode-num>
-    </programme>
 
     <programme start="20250426004000 +0000" stop="20250426013000 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -1087,6 +1073,15 @@
         <icon src="https://images.mdn.ors.at/12074324541572789196"/>
         <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
         <episode-num system="onscreen">S3 E6</episode-num>
+    </programme>
+
+    <programme start="20250428003500 +0000" stop="20250428012500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250425234500 +0000" stop="20250426011500 +0000" channel="ServusTV">
