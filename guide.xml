@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-27 00:53:13.684145 -->
+<!-- created on 2025-04-27 01:29:57.439718 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -1133,6 +1133,15 @@
         <country>Österreich</country>
     </programme>
 
+    <programme start="20250429013000 +0000" stop="20250429022500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
+    </programme>
+
     <programme start="20250427004500 +0000" stop="20250427013000 +0000" channel="ServusTV">
         <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
         <sub-title lang="de">Unglaubliche Artefakte</sub-title>
@@ -2014,6 +2023,42 @@
         <category lang="de">Wissensmagazin</category>
         <icon src="https://images.mdn.ors.at/8656260643244976531"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250429011000 +0000" stop="20250429015000 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Das galaktische Schlüsselloch</sub-title>
+        <desc lang="de">Überall auf der Erde kann das Symbol des Schlüssellochs vorgefunden werden. Man findet es in mystischen Texten, sakraler Architektur und in antiken Kunstwerken. Gilt es hier, wie die Theoretiker der Prä-Astronautik vermuten, eine tiefgründige Verbindung zum Weltall zu entdecken? Könnte dieses Symbol von außerirdischen Wesen auf der Erde hinterlassen worden sein? Ein Blick in die Vergangenheit und in die Zukunft soll das Rätsel lösen, so die Theoretiker der Prä-Astronautik.&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress</actor>
+            <actor> William Henry</actor>
+            <actor> Jonathan Young</actor>
+            <actor> Erich von Däniken</actor>
+            <actor> Jason Martell</actor>
+            <actor> Andrew Collins</actor>
+            <actor> Nick Pope</actor>
+            <actor> Colgate Salsbury</actor>
+            <actor> Giorgio Tsoukalos</actor>
+            <actor> Linda Moulton Howe</actor>
+            <actor> David Wilcock</actor>
+            <actor> George Noory</actor>
+            <actor> Michio Kaku; [B]ErzählerIn[/B]: Robert Clotworthy</actor>
+            <actor>  Simon Allix; [B]Produzent[/B]: Mary Ellen Iwata</actor>
+            <actor> Erik Pinkston; [B]Regie[/B]: Jon A. Levy</actor>
+            <actor> Keith Guinto</actor>
+            <actor> Robin Feinberg</actor>
+            <actor> Mitch Marcus</actor>
+            <actor> William Martens</actor>
+            <actor> Jonathan Haug</actor>
+            <actor> Phil Grabsky</actor>
+            <actor> Kevin Burns; [B]Editor[/B]: Damon Brewster</actor>
+            <actor> CR Donohoe; [B]Drehbuch[/B]:  Max Thompson</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/14753906121747213087"/>
+        <country>Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
