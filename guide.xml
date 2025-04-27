@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-27 00:27:47.404653 -->
+<!-- created on 2025-04-27 00:53:13.684145 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -525,20 +525,6 @@
         <display-name lang="de">Sky Nature</display-name>
         <icon src="http://live.tvspielfilm.de/static/images/channels/large/SKY-NA.png" />
     </channel>
-
-    <programme start="20250426235000 +0000" stop="20250427003500 +0000" channel="PULS24">
-        <title lang="de">Homicide Hunter - Dem Mörder auf der Spur</title>
-        <sub-title lang="de">Zerstörte Zukunft</sub-title>
-        <desc lang="de">Ein Mann wird mit mehreren Schüssen auf offener Straße niedergestreckt. Ermittler Joe Kenda taucht in die Vergangenheit des Opfers ein und stößt auf verstörende Details.&lt;br /&gt;&lt;br /&gt;Begleiten Sie Lieutenant Joe Kenda und sein Team zur Verbrechensbekämpfung in Colorado Springs, während er uns mithilfe dramatischer Nachstellungen durch einige der verstörendsten und schwierigsten Mordfälle führt, an denen sie je gearbeitet haben.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Josh Casaubon; [B]GastgeberIn[/B]: Joe Kenda</actor>
-        </credits>
-        <date>2019</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/3582009986331666020"/>
-        <country>Vereinigte Staaten, Spanien</country>
-        <episode-num system="onscreen">S8 E15</episode-num>
-    </programme>
 
     <programme start="20250427003500 +0000" stop="20250427013000 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -1138,26 +1124,13 @@
         <episode-num system="onscreen">S3 E1</episode-num>
     </programme>
 
-    <programme start="20250427000000 +0000" stop="20250427004500 +0000" channel="ServusTV">
-        <title lang="de">Grüne Zukunft - Helden des Alltags</title>
-        <sub-title lang="de">Niederlande</sub-title>
-        <desc lang="de">Helden des Alltags mit spannenden Geschichten: Männer und Frauen aus der Landwirtschaft, der Gastronomie und Architektur, dem Ingenieurswesen und dem Ehrenamt, auf dem Land und aus der Stadt – überall auf der Erde leben Menschen, die etwas verändern und eine nachhaltigere Welt schaffen wollen.&lt;br /&gt;&lt;br /&gt;Ob Landwirte, Viehzüchter, Fischer oder Menschen, die ungewöhnliche Produkte herstellen – die Doku-Reihe folgt diesen Personen auf der ganzen Welt, um mehr über ihre Leidenschaft und ihre Arbeit zu erfahren, aber auch über ihren Geschmack und Fachwissen.</desc>
-        <credits>
-            <actor>[B]Editor[/B]: Charlotte Lorteau</actor>
-            <actor> Gaelle Berrabah</actor>
-            <actor> Pascaline Aumond</actor>
-            <actor> Florian Leterrier</actor>
-            <actor> Lea Demars</actor>
-            <actor> Kevin Lamour; [B]Regie[/B]:  Frédéric Planchenault; [B]Kamera[/B]: Jean L'Appartien</actor>
-            <actor> Claire Djian</actor>
-            <actor>  Antoine Delemarre; [B]Drehbuch[/B]: Benjamin Doize; [B]Produzent[/B]: Severin Delpon</actor>
-            <actor> Jean Moncaut</actor>
-            <actor> Marwan Rarrbo</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Umwelt</category>
-        <icon src="https://images.mdn.ors.at/9461398258581345675"/>
-        <country>Frankreich</country>
+    <programme start="20250429004000 +0000" stop="20250429013000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250427004500 +0000" stop="20250427013000 +0000" channel="ServusTV">
