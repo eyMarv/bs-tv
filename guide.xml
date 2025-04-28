@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-28 00:51:56.576359 -->
+<!-- created on 2025-04-28 01:27:32.652214 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -525,15 +525,6 @@
         <display-name lang="de">Sky Nature</display-name>
         <icon src="http://live.tvspielfilm.de/static/images/channels/large/SKY-NA.png" />
     </channel>
-
-    <programme start="20250428003500 +0000" stop="20250428012500 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250428012500 +0000" stop="20250428022000 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -1130,16 +1121,6 @@
         <date>2024</date>
         <category lang="de">Reality-TV</category>
         <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250427235000 +0000" stop="20250428011000 +0000" channel="ServusTV">
-        <title lang="de">Bares für Rares Österreich</title>
-        <sub-title lang="de">Promi Spezial</sub-title>
-        <desc lang="de">ServusTV präsentiert das Erfolgsformat „Bares für Rares“ in einer österreichischen Version! In „Bares für Rares“ werden Kuriositäten und lange in Vergessenheit geratene oder auf dem Dachboden gefundene Raritäten präsentiert. Darunter befinden sich viele Schätze, aber auch Fälschungen. Moderator Willi Gabalier vermittelt zwischen den österreichischen Händlern und Anbietern, wobei immer Spannendes, Informatives, Überraschendes und wahrhaft Kurioses geschieht. Es werden Kuriositäten entdeckt, Schätze ausgegraben und Fälschungen aufgespürt und am Ende stellt sich immer dieselbe Frage: Trödel oder teure Rarität? - Unsere Experten kennen sich aus. Eisernes Verhandeln mit Lachen, Tränen und Überraschungen – das alles bietet „Bares für Rares Österreich“.&lt;br /&gt;&lt;br /&gt;Am vierten Adventsonntag begrüßt Willi Gabalier Verkäufer und Gäste zur ersten österreichischen Weihnachtsausgabe von „Bares für Rares Österreich“.</desc>
-        <date>2025</date>
-        <category lang="de">Antiquitäten</category>
-        <icon src="https://images.mdn.ors.at/10156158151431626300"/>
         <country>Österreich</country>
     </programme>
 
@@ -2085,6 +2066,45 @@
         <icon src="https://images.mdn.ors.at/10779603650564813469"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E196</episode-num>
+    </programme>
+
+    <programme start="20250430011000 +0000" stop="20250430015000 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Aliens in der Stratosphäre</sub-title>
+        <desc lang="de">Piloten berichten von rätselhaften Begegnungen am Himmel, die von seltsamen Lichtern bis zu unerklärlichen Flugobjekten reichen. Neben den bekannten UFO-Videos der US-Navy existieren beeindruckende Berichte von zivilen Piloten, die auf Video, Radar und Cockpitmonitoren festgehalten wurden. Diese Sichtungen werfen Fragen auf, ob möglicherweise außerirdische Besucher unseren Luftraum durchqueren.&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress</actor>
+            <actor> William Henry</actor>
+            <actor> Jonathan Young</actor>
+            <actor> Erich von Däniken</actor>
+            <actor> Jason Martell</actor>
+            <actor> Andrew Collins</actor>
+            <actor> Nick Pope</actor>
+            <actor> Colgate Salsbury</actor>
+            <actor> Giorgio Tsoukalos</actor>
+            <actor> Linda Moulton Howe</actor>
+            <actor> David Wilcock</actor>
+            <actor> George Noory</actor>
+            <actor> Michio Kaku</actor>
+            <actor> Robert Clotworthy; [B]ErzählerIn[/B]:  Simon Allix; [B]Produzent[/B]: Mary Ellen Iwata; [B]Regie[/B]: Jon A. Levy</actor>
+            <actor> Keith Guinto</actor>
+            <actor> Robin Feinberg</actor>
+            <actor> Mitch Marcus</actor>
+            <actor> William Martens</actor>
+            <actor> Jonathan Haug</actor>
+            <actor> Phil Grabsky</actor>
+            <actor> Kevin Burns; [B]Drehbuch[/B]: Erik Pinkston</actor>
+            <actor> Gabriel Rotello</actor>
+            <actor>  Eric Murphy</actor>
+            <actor>  Max Thompson; [B]Kamera[/B]: Joseph Bondulich; [B]Editor[/B]: Andrew Kimery</actor>
+            <actor> Paul Marengo</actor>
+            <actor> Adrian Herrera</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/3694584135437835887"/>
+        <country>Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
