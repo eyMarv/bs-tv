@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-29 00:50:32.657447 -->
+<!-- created on 2025-04-29 01:25:26.408859 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -1112,16 +1112,6 @@
         <date>2024</date>
         <category lang="de">Reality-TV</category>
         <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250429002000 +0000" stop="20250429011000 +0000" channel="ServusTV">
-        <title lang="de">P.M. Wissen</title>
-        <sub-title lang="de">Innovationen für die Umwelt - Eine Spezialausgabe</sub-title>
-        <desc lang="de">In dieser Spezialausgabe von P.M. Wissen: Wie werden Jeans kompostierbar? // Wie kann die Hydra helfen, Leben zu verlängern? // Wie können Züge schneller fahren? // Können wir Solarpaneele auf dem Meer nutzen? // Wo liegt Atlantis? // Wie helfen Delfine den Fischern?&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
-        <date>2022</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/8656260643244976531"/>
         <country>Österreich</country>
     </programme>
 
