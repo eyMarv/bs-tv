@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-30 00:50:06.885483 -->
+<!-- created on 2025-04-30 01:24:50.502914 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -1129,15 +1129,13 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250430002000 +0000" stop="20250430011000 +0000" channel="ServusTV">
-        <title lang="de">P.M. Wissen</title>
-        <sub-title lang="de">Vegane Haustiere &amp; mehr - Wie artgerecht ist fleischloses Futter?</sub-title>
-        <desc lang="de">Hülsenfrüchte, Algen und Tofu, dazu Leinöl - bei Sara Pancot kommt nur veganes Futter in den Hundenapf. Wie viele Haustierbesitzer, die sich selbst vegan ernähren, sollen auch ihre Lieblinge auf tierische Produkte verzichten. Doch ist das auch artgerecht, bekommt  das den Tieren überhaupt und kann das wirklich gesund sein? // Das für unsere Immunabwehr und Knochen so wichtige  Vitamin D kann unser Körper zwar selbst produzieren. Doch dafür braucht es Sonnenstrahlen. Im Winter aber, wenn die Sonne nur schwach scheint, wird das schwierig. PM-Wissen-Reporterin und Ernährungsexpertin Iris Pol wollte deshalb wissen, wie wir einen Vitamin-D-Mangel erkennen und was wir dagegen tun können. // Hauben sind für viele auch Ausdruck von Persönlichkeit. Manche nehmen sie den ganzen Tag nicht ab, nicht einmal im Büro oder Restaurant, wo es eigentlich warum genug ist. Dabei soll sie ja vor allem warmhalten. Wie das am besten funktioniert, ist auch eine Frage der Physik.&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
-        <date>2023</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/10779603650564813469"/>
+    <programme start="20250502010500 +0000" stop="20250502020000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
         <country>Österreich</country>
-        <episode-num system="onscreen">S1 E196</episode-num>
     </programme>
 
     <programme start="20250430011000 +0000" stop="20250430014500 +0000" channel="ServusTV">
