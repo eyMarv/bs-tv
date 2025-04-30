@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-04-30 00:25:41.338919 -->
+<!-- created on 2025-04-30 00:50:06.885483 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -525,20 +525,6 @@
         <display-name lang="de">Sky Nature</display-name>
         <icon src="http://live.tvspielfilm.de/static/images/channels/large/SKY-NA.png" />
     </channel>
-
-    <programme start="20250429235500 +0000" stop="20250430004000 +0000" channel="PULS24">
-        <title lang="de">Homicide Hunter - Dem Mörder auf der Spur</title>
-        <sub-title lang="de">Monsterjagd</sub-title>
-        <desc lang="de">Die entstellte Leiche einer jungen Frau liegt auf den Stufen ihres Wohnwagens. Joe Kenda und sein Team haben es hier mit einer mysteriösen Mordreihe zu tun.&lt;br /&gt;&lt;br /&gt;Begleiten Sie Lieutenant Joe Kenda und sein Team zur Verbrechensbekämpfung in Colorado Springs, während er uns mithilfe dramatischer Nachstellungen durch einige der verstörendsten und schwierigsten Mordfälle führt, an denen sie je gearbeitet haben.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Josh Casaubon; [B]GastgeberIn[/B]: Joe Kenda</actor>
-        </credits>
-        <date>2019</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/3582009986331666020"/>
-        <country>Vereinigte Staaten, Spanien</country>
-        <episode-num system="onscreen">S8 E18</episode-num>
-    </programme>
 
     <programme start="20250430004000 +0000" stop="20250430013000 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
