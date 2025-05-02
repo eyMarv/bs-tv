@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-05-02 00:25:51.006487 -->
+<!-- created on 2025-05-02 00:50:20.958621 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -1109,6 +1109,15 @@
         <episode-num system="onscreen">S8 E17</episode-num>
     </programme>
 
+    <programme start="20250504003000 +0000" stop="20250504012500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
+    </programme>
+
     <programme start="20250502001000 +0000" stop="20250502014500 +0000" channel="ServusTV">
         <title lang="de">Payback - Zahltag</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;Porter raubt mit seiner Frau Lynn und seinem Partner Val 140.000 Dollar von einer Gruppe chinesischer Geldwäscher. Was er nicht ahnt: Val braucht 130.000 US-Dollar, um sich wieder in ein Verbrecher-Syndikat einzukaufen. Dieser Umstand und die Tatsache, dass er seine Frau betrogen hat, werden Porter zum Verhängnis. Val schießt ihn hinterrücks nieder und macht sich mit Lynn und der Beute aus dem Staub. Doch Porter ist nicht tot und sinnt auf Rache</desc>
@@ -2096,6 +2105,24 @@
         <category lang="de">Action</category>
         <icon src="https://images.mdn.ors.at/1741242813907"/>
         <country>Frankreich, Vereinigte Staaten, Deutschland</country>
+    </programme>
+
+    <programme start="20250504003500 +0000" stop="20250504022000 +0000" channel="ServusTV">
+        <title lang="de">Mad Max: Fury Road</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Allein streift Mad Max durch die postapokalyptische Einöde. Doch dann trifft er auf eine Gruppe Flüchtlinge, die von der charismatischen Imperator Furiosa angeführt werden.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Tom Hardy</actor>
+            <actor> Charlize Theron</actor>
+            <actor> Nicholas Hoult</actor>
+            <actor> Hugh Keays-Byrne</actor>
+            <actor> Joanne Samuel</actor>
+            <actor> Steve Bisley; [B]Regie[/B]:  George Miller; [B]Drehbuch[/B]:  Brendan McCarthy</actor>
+            <actor>  Nick Lathouris</actor>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Abenteuer</category>
+        <icon src="https://images.mdn.ors.at/13403757350930993868"/>
+        <country>Australien, Vereinigte Staaten, Südafrika</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
